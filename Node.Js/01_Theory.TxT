@@ -1,0 +1,12 @@
+<----- Node.js -----> 
+
+1.) It is a cross-platform(Runs on multiple OS(like window, mac, Linux etc)), open-source, JS runtime environment built on Chrome's V8 engine
+
+2.) It has an "event-driven architecture" capable of "Asynchronous I/O"
+
+3.)    commonjs module                     ES module
+        i.) require("---")                      i.) import {..., ...} from ...
+       ii.) module.exports = {..., ...}        ii.) export function ... 
+      iii.) Synchronous                       iii.) Asynchronous
+
+4.) module.exports is an empty object 
